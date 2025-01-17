@@ -61,7 +61,7 @@
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   end
+   ```
 
 3. Run the system:
    ```bash
